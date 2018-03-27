@@ -1,7 +1,7 @@
 # Cross Modal Transfer
 Cross modal transfer for Cross-modal Retrieval
 
-### This repository contains code for an ongoing project.
+### NOTE : This repository contains code for an ongoing project. Final code and instructions will be updated soon.
 
 Cross modal reterival using CNN.
 
